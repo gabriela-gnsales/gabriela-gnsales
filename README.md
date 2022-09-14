@@ -1,6 +1,12 @@
-### Olá, seja bem-vindo(a)! 👋
-### Sou a Gabriela Sales 🙃
-Profissional formada em Engenharia Ambiental, com especialização em modelagem matemática e, atualmente, em transição de carreira para área de tecnologia da informação.
+<h2 align="center"> Olá, sou a Gabriela Sales! <img src="https://raw.githubusercontent.com/tavareshenrique/tavareshenrique/master/gifs/Hi.gif" width="30px"> </h2>
+<h3 align="center"> Estudante de DevOps e Web Full Stack | Engenheira Ambiental, MSc. </h3>
+
+<!-- ## Olá, sou a Gabriela Sales! <img src="https://raw.githubusercontent.com/tavareshenrique/tavareshenrique/master/gifs/Hi.gif" width="30px">
+### Estudante de DevOps e Web Full Stack | Engenheira Ambiental, MSc.-->
+
+- 🔭 Possuo graduação e mestrado em Engenharia Ambiental, com especialização em modelagem matemática
+- 🌱 Realizei um curso de Web Full Stack e agora estou iniciando uma formação em DevOps
+- 👯 Estou em busca de uma oportunidade para ingressar na área de TI
 
 <div align="center">
   <a href="https://github.com/gabriela-gnsales">
