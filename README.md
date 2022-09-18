@@ -3,10 +3,15 @@
 
 <!-- ## Olá, sou a Gabriela Sales! <img src="https://raw.githubusercontent.com/tavareshenrique/tavareshenrique/master/gifs/Hi.gif" width="30px">
 ### Estudante de DevOps e Web Full Stack | Engenheira Ambiental, MSc.-->
-
+<!--
+ATALHO PARA COLOCAR EMOJI: tecla windows + .
 - 🔭 Possuo graduação e mestrado em Engenharia Ambiental, com especialização em modelagem matemática
 - 🌱 Realizei um curso de Web Full Stack e agora estou iniciando uma formação em DevOps
-- 👯 Estou em busca de uma oportunidade para ingressar na área de TI
+- 👯 Estou em busca de uma oportunidade para ingressar na área de TI-->
+
+- 👩‍🎓♻ Possuo graduação e mestrado em Engenharia Ambiental, com especialização em modelagem matemática
+- 👩‍💻💻 Realizei um curso de Web Full Stack e agora estou iniciando uma formação em DevOps
+- 🧐🙋‍♀️ Estou em busca de uma oportunidade para ingressar na área de TI
 
 <div align="center">
   <a href="https://github.com/gabriela-gnsales">
