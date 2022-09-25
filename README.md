@@ -1,5 +1,14 @@
 <h2 align="center"> Olá, sou a Gabriela Sales! <img src="https://raw.githubusercontent.com/tavareshenrique/tavareshenrique/master/gifs/Hi.gif" width="30px"> </h2>
-<h3 align="center"> Estudante de DevOps e Web Full Stack | Engenheira Ambiental, MSc. </h3>
+
+<!-- <h3 align="center"> Estudante de DevOps e Web Full Stack | Engenheira Ambiental, MSc. </h3>
+
+ <h3 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=259A8B&center=true&vCenter=true&multiline=true&width=435&lines=Estudante+de+DevOps+e+Web+Full+Stack" alt="Typing SVG" /></a> </h3> -->
+
+<h3 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=259A8B&center=true&width=435&lines=Estudante+de+DevOps+e+Web+Full+Stack" alt="Typing SVG" /></a> </h3>
+
+<h3 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=259A8B&center=true&width=435&lines=Engenheira+Ambiental,MSc." alt="Typing SVG" /></a> </h3>
+
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=259A8B&lines=Gabriela+Gomes+Nogueira+Sales)](https://github.com/gabriela-gnsales) -->
 
 <!-- ## Olá, sou a Gabriela Sales! <img src="https://raw.githubusercontent.com/tavareshenrique/tavareshenrique/master/gifs/Hi.gif" width="30px">
 ### Estudante de DevOps e Web Full Stack | Engenheira Ambiental, MSc.-->
@@ -18,7 +27,6 @@ ATALHO PARA COLOCAR EMOJI: tecla windows + .
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriela-gnsales&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriela-gnsales&layout=compact&langs_count=7&theme=panda"/>
 </div> 
-
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -34,6 +42,8 @@ ATALHO PARA COLOCAR EMOJI: tecla windows + .
   <a href="https://www.instagram.com/gabi.gnsales/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href = "mailto:gnsales.gabriela@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%FF6F9C&lines=Projetos)](https://github.com/gabriela-gnsales) -->
   
 ##
  
