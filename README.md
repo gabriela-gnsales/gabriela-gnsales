@@ -42,8 +42,11 @@ ATALHO PARA COLOCAR EMOJI: tecla windows + .
  <a href = "mailto:gnsales.gabriela@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%FF6F9C&lines=Projetos)](https://github.com/gabriela-gnsales) -->
-  
+<!--
+### Visulizações: <img src="https://profile-counter.glitch.me/gabriela-gnsales/count.svg?"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%FF6F9C&lines=Projetos)](https://github.com/gabriela-gnsales) 
+-->
 ##
  
   ![Snake animation](https://github.com/gabriela-gnsales/gabriela-gnsales/blob/output/github-contribution-grid-snake.svg)
