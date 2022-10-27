@@ -38,8 +38,8 @@ ATALHO PARA COLOCAR EMOJI: tecla windows + .
   
 <div> 
   <a href="https://www.linkedin.com/in/gabrielagomesnogueirasales/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0747a6?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.instagram.com/gabi.gnsales/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="mailto:gnsales.gabriela@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-B1361E?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.instagram.com/gabi.gnsales/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="mailto:gnsales.gabriela@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-B1361E?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://gabriela-gnsales.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfólio-330F63?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div>
 
