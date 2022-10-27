@@ -1,6 +1,6 @@
 <h2 align="center"> Olá, sou a Gabriela Sales! <img src="https://raw.githubusercontent.com/tavareshenrique/tavareshenrique/master/gifs/Hi.gif" width="30px"> </h2>
 
-<h3 align="center"> Estudante de DevOps e Web Full Stack | Engenheira Ambiental, MSc. </h3>
+<h3 align="center"> DevOps | Web Full Stack | Engenheira Ambiental, MSc. </h3>
 
 <!-- 
 <h3 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=259A8B&center=true&width=435&lines=Estudante+de+DevOps+e+Web+Full+Stack" alt="Typing SVG" /></a> </h3>
