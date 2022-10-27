@@ -22,8 +22,8 @@ ATALHO PARA COLOCAR EMOJI: tecla windows + .
 
 <div align="center">
   <a href="https://github.com/gabriela-gnsales">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriela-gnsales&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriela-gnsales&layout=compact&langs_count=7&theme=panda"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriela-gnsales&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriela-gnsales&layout=compact&langs_count=7&theme=aura_dark"/>
 </div> 
   
 <div style="display: inline_block"><br>
@@ -42,7 +42,6 @@ ATALHO PARA COLOCAR EMOJI: tecla windows + .
   <a href="mailto:gnsales.gabriela@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-B1361E?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://gabriela-gnsales.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfólio-330F63?style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
-
 
 <!--
 ### Visulizações: <img src="https://profile-counter.glitch.me/gabriela-gnsales/count.svg?"/>
