@@ -17,11 +17,17 @@
 <div>
   <p>
     <img align="center" alt="GitHub" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+    &nbsp;
     <img align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+    &nbsp;
     <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
+    &nbsp;
     <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+    &nbsp;
     <img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
+    &nbsp;
     <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+    &nbsp;
     <img align="center" alt="Linux" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/>
   </p>
 </div>
@@ -30,7 +36,9 @@
 
 <div>
   <a href="https://www.linkedin.com/in/gabrielagomesnogueirasales/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0747a6?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  &nbsp;
   <a href="https://www.instagram.com/gabi.gnsales/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  &nbsp;
   <a href="mailto:gnsales.gabriela@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-B1361E?style=for-the-badge&logo=gmail&logoColor=white"></a
 </div>
   
