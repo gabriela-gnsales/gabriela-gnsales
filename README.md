@@ -39,7 +39,9 @@
   &nbsp;
   <a href="https://www.instagram.com/gabi.gnsales/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   &nbsp;
-  <a href="mailto:gnsales.gabriela@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-B1361E?style=for-the-badge&logo=gmail&logoColor=white"></a
+  <a href="mailto:gnsales.gabriela@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-B1361E?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  &nbsp;
+  <a href="https://t.me/gabriela_gnsales" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 </div>
   
 ![Snake animation](https://github.com/gabriela-gnsales/gabriela-gnsales/blob/output/github-contribution-grid-snake.svg)
