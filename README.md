@@ -31,6 +31,10 @@
     <img align="center" alt="Linux" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/>
     &nbsp;
     <img align="center" alt="Docker" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+    &nbsp;
+    <img align="center" alt="grafana" height="45" width="45" src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg"/>
+    &nbsp;
+    <img align="center" alt="jenkins" height="45" width="45" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"/>
   </p>
 </div>
 
