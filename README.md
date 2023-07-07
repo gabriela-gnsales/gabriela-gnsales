@@ -3,7 +3,7 @@
 <h3 align="center"> DevOps | Web Full Stack | Engenheira Ambiental, MSc. </h3>
 
 - 👩‍🎓♻ Possuo graduação e mestrado em Engenharia Ambiental, com especialização em modelagem matemática
-- 👩‍💻💻 Realizei um curso de Web Full Stack e agora estou iniciando uma formação em DevOps
+- 👩‍💻💻 Realizei um curso de Web Full Stack e uma formação em DevOps
 - 🧐🙋‍♀️ Estou em busca de uma oportunidade para ingressar na área de TI
 
 <div align="center">
@@ -16,25 +16,25 @@
 
 <div>
   <p>
-    <img align="center" alt="GitHub" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+    <img align="center" alt="GitHub" title="GitHub" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
     &nbsp;
-    <img align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+    <img align="center" alt="Git" title="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
     &nbsp;
-    <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
+    <img align="center" alt="HTML" title="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
     &nbsp;
-    <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+    <img align="center" alt="CSS" title="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
     &nbsp;
-    <img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
+    <img align="center" alt="JavaScript" title="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
     &nbsp;
-    <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+    <img align="center" alt="Python" title="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
     &nbsp;
-    <img align="center" alt="Linux" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/>
+    <img align="center" alt="Linux" title="Linux" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/>
     &nbsp;
-    <img align="center" alt="Docker" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+    <img align="center" alt="Docker" title="Docker" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
     &nbsp;
-    <img align="center" alt="grafana" height="45" width="45" src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg"/>
+    <img align="center" alt="Grafana" title="Grafana" height="45" width="45" src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg"/>
     &nbsp;
-    <img align="center" alt="jenkins" height="45" width="45" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"/>
+    <img align="center" alt="Jenkins" title="Jenkins" height="45" width="45" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"/>
   </p>
 </div>
 
