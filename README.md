@@ -4,7 +4,6 @@
 
 - 👩‍🎓♻ Possuo graduação e mestrado em Engenharia Ambiental, com especialização em modelagem matemática
 - 👩‍💻💻 Realizei um curso de Web Full Stack e uma formação em DevOps
-- 🧐🙋‍♀️ Estou em busca de uma oportunidade para ingressar na área de TI
 
 <div align="center">
   <a href="https://github.com/gabriela-gnsales">
