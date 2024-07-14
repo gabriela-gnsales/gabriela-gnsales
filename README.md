@@ -1,6 +1,6 @@
 <h2 align="center"> Olá, sou a Gabriela Sales! <img src="https://raw.githubusercontent.com/tavareshenrique/tavareshenrique/master/gifs/Hi.gif" width="30px"> </h2>
 
-<h3 align="center"> DevOps | Web Full Stack | Engenheira Ambiental, MSc. </h3>
+<h3 align="center"> Desenvolvedora de Software | Engenheira Ambiental, MSc. </h3>
 
 - 👩‍🎓♻ Possuo graduação e mestrado em Engenharia Ambiental, com especialização em modelagem matemática
 - 👩‍💻💻 Realizei um curso de Web Full Stack e uma formação em DevOps
@@ -24,6 +24,8 @@
     <img align="center" alt="CSS" title="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
     &nbsp;
     <img align="center" alt="JavaScript" title="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
+    &nbsp;
+    <img align="center" alt="Angular" title="Angular" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"/>
     &nbsp;
     <img align="center" alt="Python" title="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
     &nbsp;
